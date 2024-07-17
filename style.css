@@ -1,0 +1,47 @@
+body
+{
+    border: 1px solid black;
+}
+#name
+{
+    display: inline-block;
+    margin-bottom: 0;
+}
+#main_b{
+
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+h4{
+    display: inline-block;
+}
+#objective{
+    border-bottom: 1px solid black;
+}
+#education{
+    border-bottom: 1px solid black;
+}
+#skills{
+    border-bottom: 1px solid black;
+}
+#project{
+    border-bottom: 1px solid black;
+}
+#experience{
+    border-bottom: 1px solid black;
+}
+#leader{
+    border-bottom: 1px solid black;
+}
+#Certifications{
+    border-bottom: 1px solid black;
+}
+#language{
+    border-bottom: 1px solid black;
+}
+#refer{
+    border-bottom: 1px solid black;
+}
+.same{
+    margin-left: 6px;
+}
